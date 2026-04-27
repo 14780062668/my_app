@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/navigator/tab_navigator.dart';
-import 'package:flutter_swiper/flutter_swiper.dart';
+
 
 void main() {
   // const list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
